@@ -1,4 +1,4 @@
-### Making my own theme from scratch.
+## Making my own theme from scratch. <br><br>
 
 - [x] CSS custom styling (imported using script)
 - [x] Nav Menu
