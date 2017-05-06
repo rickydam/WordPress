@@ -1,0 +1,117 @@
+/*
+Theme Name: Ricky's Theme
+Author: Ricky Dam
+Description: A theme written from scratch following a tutorial online.
+Version: 0.0.1
+Tags: theme custom ricky new scratch
+*/
+
+.blog-header {
+  background-color: lightgray;
+  margin-top: -10px;
+}
+
+.blog-post {
+  background-color: lightgray;
+}
+
+.blog-footer {
+  background-color: lightgray;
+}
+
+#firstContainer {
+  margin-top: -15px;
+}
+
+#secondContainer {
+  margin-top: -20px;
+}
+
+#thirdContainer {
+  margin-top: -25px;
+  margin-left: -10px;
+  padding: 5px!important;
+}
+
+.blog-post {
+  margin-top: -10px;
+}
+
+#about {
+  background-color: lightgray;
+}
+
+#archives {
+  background-color: lightgray;
+}
+
+#social {
+  background-color: lightgray;
+}
+
+#theMenu {
+  background-color: lightgray;
+  margin: 15px;
+}
+
+#menu-item-4 {
+  list-style-type: none;
+  margin-left: -40px;
+  display: inline-block;
+  background-color: silver;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#menu-item-5 {
+  list-style-type: none;
+  margin-left: 2px;
+  display: inline-block;
+  background-color: silver;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu-item a {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.current-menu-item {
+  background-color: black!important;
+}
+
+blockquote {
+  margin-left: -20px;
+  padding-left: 40px;
+}
+
+p {
+  word-wrap: break-word;
+}
+
+@media only screen and (max-width: 767px) {
+
+  h1 {
+    color: red;
+  }
+
+  #menu-item-22,
+  #menu-item-23,
+  #menu-item-19,
+  #menu-item-24 {
+    display: none;
+  }
+
+  #menu-infomenu {
+    height: 40px;
+  }
+
+  .blog-sidebar {
+    display: none;
+  }
+
+
+}
