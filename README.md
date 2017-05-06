@@ -6,6 +6,6 @@
 - [x] Footer
 - [x] Sidebar
 - [x] Posts (uses TheLoop)
-- [ ] Comments
+- [ ] Comments <br><br>
 
 - [x] Wrote my own plugin (The plugin replaces instances of the word "WordPress" with the word "RICKY".)
